@@ -2,6 +2,7 @@
   <assembly fullname="CharacterCustomization.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="ColorCustomizableSkinItem" preserve="all" />
     <type fullname="DefaultSpineSkinSetup" preserve="all" />
+    <type fullname="EmptySkinItem" preserve="all" />
     <type fullname="SpineSkinController" preserve="all" />
     <type fullname="SpineSkinItem" preserve="all" />
     <type fullname="ColorCustomizableSkinItem/Entry" preserve="nothing" serialized="true" />
